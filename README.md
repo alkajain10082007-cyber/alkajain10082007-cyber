@@ -2,29 +2,64 @@
 
 ### 🤖 Artificial Intelligence & Machine Learning Student
 
-I'm an AIML student interested in **Python, Artificial Intelligence, Machine Learning, and Software Development**.
+🎓 AIML Student | 💻 Python | 🤖 AI & Machine Learning | 🚀 Aspiring AI/ML Engineer
 
-🌱 Currently learning:
-- Python
-- Machine Learning
-- Artificial Intelligence
-- Data Structures & Algorithms
+---
 
-💻 Projects:
-- 👏 **Clap to Open App** – A Python-based project that detects clap sounds and opens selected applications.
+## 👩‍💻 About Me
 
-### 🛠️ Skills
+I'm an Artificial Intelligence and Machine Learning student passionate about
+learning new technologies and building practical projects.
 
-- Python
-- Machine Learning
-- Artificial Intelligence
-- Git & GitHub
-- Problem Solving
+- 🔭 Currently working on Python projects
+- 🌱 Learning Artificial Intelligence & Machine Learning
+- 💻 Interested in Python and Software Development
+- 🧠 Improving my problem-solving and programming skills
+- 🚀 Looking forward to building real-world projects
 
-### 📫 Connect with me
+---
 
-- LinkedIn: [Add your LinkedIn profile here]
-- GitHub: [Add your GitHub profile here]
+## 🛠️ Skills & Technologies
+
+### Programming
+🐍 Python
+
+### AI & ML
+🤖 Artificial Intelligence  
+📊 Machine Learning
+
+### Tools
+💻 VS Code  
+🐙 Git & GitHub
+
+---
+
+## 📌 Featured Project
+
+### 👏 Clap to Open App
+
+A Python-based project that detects a clap sound and opens a selected
+application on macOS.
+
+**Technologies:** Python | Sounddevice | PyAutoGUI
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen my Python fundamentals
+- Learn Machine Learning
+- Build more practical AI/ML projects
+- Improve problem-solving skills
+- Prepare for AI/ML placement opportunities
+
+---
+
+## 🔗 Connect With Me
+
+💼 LinkedIn: [Alka Jain](https://www.linkedin.com/in/alkajain-ai)
+
+🐙 GitHub: [Alka Jain](https://github.com/)
 
 ---
 
