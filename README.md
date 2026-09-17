@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alka Jain 👋
 
-<!--
-**alkajain10082007-cyber/alkajain10082007-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Artificial Intelligence & Machine Learning Student
 
-Here are some ideas to get you started:
+I'm an AIML student interested in **Python, Artificial Intelligence, Machine Learning, and Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Data Structures & Algorithms
+
+💻 Projects:
+- 👏 **Clap to Open App** – A Python-based project that detects clap sounds and opens selected applications.
+
+### 🛠️ Skills
+
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Git & GitHub
+- Problem Solving
+
+### 📫 Connect with me
+
+- LinkedIn: [Add your LinkedIn profile here]
+- GitHub: [Add your GitHub profile here]
+
+---
+
+⭐ Thanks for visiting my profile!
